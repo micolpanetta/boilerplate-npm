@@ -3,7 +3,8 @@
   "dependencies": {
     "express": "^4.14.0"
   },
-  "description": "A project that does something awesome",
+  "description": "Learning Node.js",
+  "keywords": [ "freeCodeCamp", "learningNodeJs", "firstExercise" ],
   "main": "server.js",
   "name": "fcc-learn-npm-package-json",
   "repository": {

@@ -4,7 +4,12 @@
     "express": "^4.14.0"
   },
   "description": "Learning Node.js",
-  "keywords": [ "freeCodeCamp", "learningNodeJs", "firstExercise" ],
+  "keywords": [
+    "freecodecamp",
+    "learningNodeJs",
+    "firstExercise"
+  ],
+  "license": "Only personal use admitted. All rights reserved.",
   "main": "server.js",
   "name": "fcc-learn-npm-package-json",
   "repository": {
